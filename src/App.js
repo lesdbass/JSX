@@ -14,11 +14,11 @@ function App() {
 
         <br/>
 
-          <img src={im} />
+          <img src={im} alt="imageInSrc"/>
 
         <br/>
 
-          <img src="/imageInPublic.jpg" /> 
+          <img src="/imageInPublic.jpg" alt="imageInPublic"/> 
 
     </div>
 
